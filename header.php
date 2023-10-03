@@ -14,7 +14,7 @@
     <img src="./images/Tlogo.png" alt="" href="home.php" class="logo">
 
     <nav class="navbar">
-        <a href="home.php"> Home </a>
+        <a href="index.php"> Home </a>
         <a href="about.php"> About </a>
         <a href="portfolio.php"> Portfolio </a>
         <a href="premium.php"> Premium </a>
@@ -37,7 +37,7 @@
                         $resul = mysqli_fetch_assoc($query);
                     ?>
 
-                    <li><a href="home.php"> Home </a></li>
+                    <li><a href="index.php"> Home </a></li>
                     <li><a href="about.php"> About </a></li>
                     <li><a href="portfolio.php"> Portfolio </a></li>
                     <li><a href="premium.php"> Premium </a></li>
