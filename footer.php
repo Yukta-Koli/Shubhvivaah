@@ -8,7 +8,7 @@
 
         <div class="box">
             <h3> Quick Links </h3>
-            <a href="home.php"> <i class="fas fa-angle-right"></i> Home </a>
+            <a href="index.php"> <i class="fas fa-angle-right"></i> Home </a>
             <a href="about.php"> <i class="fas fa-angle-right"></i> About </a>
             <a href="portfolio.php"> <i class="fas fa-angle-right"></i> Portfolio </a>
             <a href="premium.php"> <i class="fas fa-angle-right"></i> Premium </a>
